@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     "client.apps.Gpt4Config",
-    "notifications.apps.NotificationsConfig"
+    "notifications.apps.NotificationsConfig",
+    "api.apps.ApiConfig"
 ]
 
 MIDDLEWARE = [
