@@ -33,7 +33,6 @@ class Command(BaseCommand):
             {
                 'title': 'Empowering Talk 2',
                 'description': 'Another inspiring talk on empowerment.',
-                'video_url': 'https://youtu.be/VzT5MXaImp8?si=JULIM6x3fETqrJVL'
             },
             # Add more video details here
         ]
