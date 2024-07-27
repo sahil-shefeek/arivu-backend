@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'corsheaders',
     "client.apps.Gpt4Config",
     "notifications.apps.NotificationsConfig",
-    "api.apps.ApiConfig"
+    "api.apps.ApiConfig",
+    "youtube.apps.YoutubeConfig"
 ]
 
 MIDDLEWARE = [
