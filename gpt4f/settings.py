@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
-    "client.apps.Gpt4Config"
+    "client.apps.Gpt4Config",
+    "notifications.apps.NotificationsConfig"
 ]
 
 MIDDLEWARE = [
